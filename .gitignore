@@ -24,3 +24,6 @@ build/
 *.pem
 *.key
 credentials*
+
+# Gradle local cache
+.gradle/
